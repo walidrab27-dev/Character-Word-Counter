@@ -21,8 +21,9 @@ Input:
 I love programming in C++
 
 Output:
-Words Count: 5
-Characters Count: 25
+Words Count:      5
+Letters Count:    21
+Total Characters: 25
 ```
 
 ## 🧩 Technologies Used
